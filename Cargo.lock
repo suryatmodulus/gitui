@@ -414,9 +414,9 @@ dependencies = [
 
 [[package]]
 name = "easy-cast"
-version = "0.5.0"
+version = "0.5.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "df411bcae1eadd758a3a4d005db3ba7c73bff8500e64a7f8efa4fdcc8afa7acc"
+checksum = "10936778145f3bea71fd9bf61332cce28c28e96a380714f7ab34838b80733fd6"
 
 [[package]]
 name = "either"
